@@ -1,7 +1,7 @@
-#FreeGPT-Py
+# FreeGPT-Py
 is a ChatGPT API without any limit and API Key and this is completely free
 
-#How to Run
+# How to Run
 1. Clone this repo
 ```
 git clone https://github.com/jokosantosi/FreeGPT-Py.git
@@ -23,7 +23,7 @@ python3 app.py
 python3 example.py
 ```
 
-or you can using a docker
+or you can using Docker
 1. Clone this repo
 ```
 git clone https://github.com/jokosantosi/FreeGPT-Py.git
