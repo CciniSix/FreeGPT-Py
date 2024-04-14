@@ -1,5 +1,5 @@
 # FreeGPT-Py
-is a ChatGPT API without any limit and API Key and this is completely free
+a ChatGPT API without any limit and API Key and this is completely free
 
 # How to Run
 1. Clone this repo
